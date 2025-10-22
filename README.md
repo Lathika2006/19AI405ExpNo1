@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Lathika L J</h3>
+<h3>Name: Lathika L J </h3>
 <h3>Register Number: 212223220050</h3>
 
 
@@ -7,7 +7,7 @@
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
-<h3>Theory</h3>
+<h3>Theory:</h3>
 <h3>Medicine prescribing agent:</h3>
 <p>Such this agent prescribes medicine for fever (greater than 98.5 degrees) which we consider here as unhealthy, by the user temperature input, and another environment is rooms in the hospital (two rooms). This agent has to consider two factors one is room location and an unhealthy patient in a random room, the agent has to move from one room to another to check and treat the unhealthy person. The performance of the agent is calculated by incrementing performance and each time after treating in one room again it has to check another room so that the movement causes the agent to reduce its performance. Hence, agents prescribe medicine to unhealthy.</p>
 <hr>
@@ -40,7 +40,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-## Program
+
+### PROGRAM:
 ```
 import random
 
@@ -93,8 +94,8 @@ if __name__ == "__main__":
     
     health_monitoring_agent.monitor_health()
 ```
-## Output
-<img width="1344" height="534" alt="image" src="https://github.com/user-attachments/assets/ce8c70e6-9662-4200-9d59-1e7fdbf71f34" />
-
-## RESULT:
+### OUTPUT:
+<img width="1344" height="534" alt="image" src="https://github.com/user-attachments/assets/c3374298-9268-42fc-b1c3-f90dc992d65b" />
+### RESULT:
 Hence, the solution for the given AI problem is found.
+
