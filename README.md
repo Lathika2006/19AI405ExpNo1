@@ -96,6 +96,7 @@ if __name__ == "__main__":
 ```
 ### OUTPUT:
 <img width="1344" height="534" alt="image" src="https://github.com/user-attachments/assets/c3374298-9268-42fc-b1c3-f90dc992d65b" />
+
 ### RESULT:
 Hence, the solution for the given AI problem is found.
 
